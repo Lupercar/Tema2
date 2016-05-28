@@ -1,7 +1,7 @@
 package entidadesBanco;
 
 public class CuentaBancaria {
-	private String nombre; 
+	protected String nombre; 
 	private double balance; 
 	
 	public CuentaBancaria(String nombre){
